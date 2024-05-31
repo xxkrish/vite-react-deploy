@@ -2195,42 +2195,42 @@
 		{
 			"mimeType":"image/png",
 			"name":"table_col",
-			"uri":"../assets/table_col.png"
+			"uri":"/vite-react-deploy/src/assets/table_col.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"table_rou",
-			"uri":"../assets/table_rou.png"
+			"uri":"/vite-react-deploy/src/assets/table_rou.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"tipSurface_Color",
-			"uri":"../assets/tipSurface_Color.png"
+			"uri":"/vite-react-deploy/src/assets/tipSurface_Color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"rusty_baseSurface_Color",
-			"uri":"../assets/rusty_baseSurface_Color.png"
+			"uri":"/vite-react-deploy/src/assets/rusty_baseSurface_Color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"rusty_baseNormal",
-			"uri":"../assets/rusty_baseNormal.png"
+			"uri":"/vite-react-deploy/src/assets/rusty_baseNormal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"wax1Surface_Color",
-			"uri":"../assets/wax1Surface_Color.png"
+			"uri":"/vite-react-deploy/src/assets/wax1Surface_Color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"360_F_102133111_4LDxdBpwtvaKutPDIxNRdmbpI5o7iUBd",
-			"uri":"../assets/360_F_102133111_4LDxdBpwtvaKutPDIxNRdmbpI5o7iUBd.jpg"
+			"uri":"/vite-react-deploy/src/assets/360_F_102133111_4LDxdBpwtvaKutPDIxNRdmbpI5o7iUBd.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"360_F_102133111_4LDxdBpwtvaKutPDIxNRdmbpI5o7iUBd",
-			"uri":"../assets/360_F_102133111_4LDxdBpwtvaKutPDIxNRdmbpI5o7iUBd.png"
+			"uri":"/vite-react-deploy/src/assets/360_F_102133111_4LDxdBpwtvaKutPDIxNRdmbpI5o7iUBd.png"
 		}
 	],
 	"skins":[
@@ -4474,7 +4474,7 @@
 	"buffers":[
 		{
 			"byteLength":4358420,
-			"uri":"../assets/reflexarc.bin"
+			"uri":"/vite-react-deploy/src/assets/reflexarc.bin"
 		}
 	]
 }
