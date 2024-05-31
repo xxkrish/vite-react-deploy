@@ -2195,7 +2195,7 @@
 		{
 			"mimeType":"image/png",
 			"name":"table_col",
-			"uri":"/table_col.png"
+			"uri":"./table_col.png"
 		},
 		{
 			"mimeType":"image/png",
