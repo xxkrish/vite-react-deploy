@@ -2195,42 +2195,42 @@
 		{
 			"mimeType":"image/png",
 			"name":"table_col",
-			"uri":"./table_col.png"
+			"uri":"../assets/table_col.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"table_rou",
-			"uri":"./table_rou.png"
+			"uri":"../assets/table_rou.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"tipSurface_Color",
-			"uri":"./tipSurface_Color.png"
+			"uri":"../assets/tipSurface_Color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"rusty_baseSurface_Color",
-			"uri":"./rusty_baseSurface_Color.png"
+			"uri":"../assets/rusty_baseSurface_Color.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"rusty_baseNormal",
-			"uri":"./rusty_baseNormal.png"
+			"uri":"../assets/rusty_baseNormal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"wax1Surface_Color",
-			"uri":"./wax1Surface_Color.png"
+			"uri":"../assets/wax1Surface_Color.png"
 		},
 		{
 			"mimeType":"image/jpeg",
 			"name":"360_F_102133111_4LDxdBpwtvaKutPDIxNRdmbpI5o7iUBd",
-			"uri":"./360_F_102133111_4LDxdBpwtvaKutPDIxNRdmbpI5o7iUBd.jpg"
+			"uri":"../assets/360_F_102133111_4LDxdBpwtvaKutPDIxNRdmbpI5o7iUBd.jpg"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"360_F_102133111_4LDxdBpwtvaKutPDIxNRdmbpI5o7iUBd",
-			"uri":"./360_F_102133111_4LDxdBpwtvaKutPDIxNRdmbpI5o7iUBd.png"
+			"uri":"../assets/360_F_102133111_4LDxdBpwtvaKutPDIxNRdmbpI5o7iUBd.png"
 		}
 	],
 	"skins":[
@@ -4474,7 +4474,7 @@
 	"buffers":[
 		{
 			"byteLength":4358420,
-			"uri":"./reflexarc.bin"
+			"uri":"../assets/reflexarc.bin"
 		}
 	]
 }
