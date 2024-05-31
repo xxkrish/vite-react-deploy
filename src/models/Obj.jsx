@@ -8,7 +8,7 @@ import { OutlinePass } from 'three/examples/jsm/postprocessing/OutlinePass';
 import { ShaderPass } from 'three/examples/jsm/postprocessing/ShaderPass';
 import { FXAAShader } from 'three/examples/jsm/shaders/FXAAShader';
 import { Vector2, Raycaster, Clock, Color, MeshBasicMaterial } from 'three';
-import reflexarc from 'src/assets/reflexarc.gltf';
+import reflexarc from './src/assets/reflexarc.gltf';
 
 extend({ EffectComposer, RenderPass, OutlinePass, ShaderPass });
 
