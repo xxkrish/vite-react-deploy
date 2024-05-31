@@ -3,8 +3,8 @@ import React, { useRef, useState, useEffect } from 'react';
 import { Canvas } from '@react-three/fiber';
 import { OrbitControls } from '@react-three/drei';
 import { Suspense } from 'react';
-import Loader from '../components/Loader';
-import Obj from '../models/Obj';
+import Loader from '/vite-react-deploy/src/components/Loader';
+import Obj from '/vite-react-deploy/src/models/Obj';
 
 const Home = () => {
   const cameraRef = useRef();
