@@ -1,6 +1,6 @@
 import React from 'react'
-import Navbar from '/vite-react-deploy/src/components/Navbar';
-import Home from '/vite-react-deploy/src/pages/Home'
+import Navbar from './components/Navbar';
+import Home from './pages/Home'
 
 const App = () => {
   return (

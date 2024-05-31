@@ -1,6 +1,6 @@
-import Home from '/vite-react-deploy/src/pages/Home';
+import Home from './Home';
 
-import Obj from '/vite-react-deploy/src/models/Obj';
+import Obj from '../models/Obj';
 
 export { Home };
 export { Obj };
